@@ -46,7 +46,7 @@ Install using Docker
 ^^^^^^^^^^^^^^^^^^^^
 
 You can try Bash-it in an isolated environment without changing any local files via a `Docker <https://www.docker.com/>`_ Container.
-(Bash Shell v4.4 with Bash-it, `bats <https://github.com/sstephenson/bats>`_\ ,and bash-completion based on `Alpine Linux <https://alpinelinux.org/>`_\ ).
+(Bash Shell v5 with Bash-it, `bats <https://github.com/sstephenson/bats>`_\ ,and bash-completion based on `Alpine Linux <https://alpinelinux.org/>`_\ ).
 
 ``docker pull ellerbrock/bash-it``
 
